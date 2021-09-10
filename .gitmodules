@@ -1,0 +1,15 @@
+[submodule "QOption"]
+	path = QOption
+	url = https://github.com/smurfomen/QOption
+[submodule "QBox"]
+	path = QBox
+	url = https://github.com/smurfomen/QBox
+[submodule "QDataMutex"]
+	path = QDataMutex
+	url = https://github.com/smurfomen/QDataMutex
+[submodule "QSerializer"]
+	path = QSerializer
+	url = https://github.com/smurfomen/QSerializer
+[submodule "QChan"]
+	path = QChan
+	url = https://github.com/smurfomen/QChan
