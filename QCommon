@@ -1,0 +1,12 @@
+#pragma once
+#ifdef QOPTION_INCLUDED
+#include <QOption>
+#endif
+
+#ifdef QSERIALIZER_INCLUDED
+#include <QSerializer>
+#endif
+
+#include <QBox>
+#include <QChan>
+#include <QDataMutex>
