@@ -13,3 +13,6 @@
 [submodule "QChan"]
 	path = QChan
 	url = https://github.com/smurfomen/QChan
+[submodule "endian_traits"]
+	path = endian_traits
+	url = git@github.com:smurfomen/endian_traits.git
